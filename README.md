@@ -1,2 +1,2 @@
 # DizzySMP
-Official website of DizzySMO
+Official website of DizzySMP
